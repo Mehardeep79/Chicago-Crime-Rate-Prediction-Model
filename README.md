@@ -67,6 +67,10 @@ You can clone this repository to your local machine using:
 git clone https://github.com/your-username/chicago-crime-forecast.git
 cd chicago-crime-forecast
 ```
+### 🗂️ Download Datasets
+
+Download the three datasets (excel files) from: [Datasets](https://www.kaggle.com/currie32/crimes-in-chicago).
+**Datasets to Download:** Chicago_Crimes_2005_to_2007.csv, Chicago_Crimes_2008_to_2011.csv, Chicago_Crimes_2012_to_2017.csv
 
 ## 📥 Data Loading & Exploration
 
