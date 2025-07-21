@@ -5,10 +5,10 @@ This notebook walks through the full pipeline — from dataset exploration and c
 
 <img src="assets/Crime_rate_predict.png" width="50%" alt="Crime Rate">
 
-<p align="center"><em>Figure 1: Crime Rate Prediction Of Next Year</em></p>
+<p align="left"><em>Figure 1: Crime Rate Prediction Of Next Year</em></p>
 
 
-![Trends and Seasonality Prediction of crime in next year](assets/trends_seasonality_plot.png)
+
 
 ---
 
