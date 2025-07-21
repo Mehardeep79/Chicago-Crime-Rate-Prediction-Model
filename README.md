@@ -6,11 +6,11 @@ This notebook walks through the full pipeline — from dataset exploration and c
 <table>
   <tr>
     <td align="center">
-      <img src="assets/Crime_rate_predict.png" width="100%" alt="Crime Rate"><br>
+      <img src="assets/Crime_rate_predict.png" width="120%" alt="Crime Rate"><br>
       <em>Figure 1: Crime Rate Prediction Of Next Year</em>
     </td>
     <td align="center">
-      <img src="assets/trends_seasonality_plot.png" width="100%" alt="Trends and Seasonality"><br>
+      <img src="assets/trends_seasonality_plot.png" width="120%" alt="Trends and Seasonality"><br>
       <em>Figure 2: Trends And Seasonality Prediction Of Next Year</em>
     </td>
   </tr>
