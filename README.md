@@ -3,6 +3,10 @@
 A time series forecasting project that predicts monthly crime rates in Chicago using **Facebook Prophet**.  
 This notebook walks through the full pipeline — from dataset exploration and cleaning, to model building, forecasting, and evaluation — to uncover trends and make future predictions.
 
+![Crime Rate Prediction of next year](assets/Crime_rate_predict.png)
+
+![Trends and Seasonality Prediction of crime in next year](assets/trends_seasonality_plot.png)
+
 ---
 
 ## 📑 Table of Contents
