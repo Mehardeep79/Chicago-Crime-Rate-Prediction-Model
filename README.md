@@ -40,7 +40,6 @@ In this project, we:
   - Location  
   - District, beat, and coordinates  
 
-We aggregate the data monthly to create a univariate time series suitable for forecasting.
 
 ---
 
