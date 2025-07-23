@@ -78,12 +78,12 @@ pip install pandas numpy matplotlib seaborn prophet
 You can clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/your-username/chicago-crime-forecast.git
-cd chicago-crime-forecast
+git clone https://github.com/Mehardeep79/Chicago-Crime-Rate-Prediction-Model.git
+cd Chicago-Crime-Rate-Prediction-Model
 ```
 ### 🗂️ Download Datasets
 
-Download the three datasets (excel files) from: [Datasets](https://www.kaggle.com/currie32/crimes-in-chicago).
+Download the three datasets (excel files) from: [Kaggle Datasets](https://www.kaggle.com/currie32/crimes-in-chicago).
 
 
 **Datasets to Download:** Chicago_Crimes_2005_to_2007.csv, Chicago_Crimes_2008_to_2011.csv, Chicago_Crimes_2012_to_2017.csv
